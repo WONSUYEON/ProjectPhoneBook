@@ -1,4 +1,4 @@
-package project1.ver02;
+package project1.ver03;
 
 import java.util.Scanner;
 
@@ -31,4 +31,6 @@ public class PhoneInfo
 		System.out.println("전화번호:"+phoneNumber);
 		System.out.println("생년월일:"+birthday);
 	}
+	
+
 }
